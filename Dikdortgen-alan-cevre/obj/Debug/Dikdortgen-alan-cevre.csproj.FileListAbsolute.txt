@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\bin\Debug\Dikdortgen-alan-cevre.exe.config
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\bin\Debug\Dikdortgen-alan-cevre.exe
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\bin\Debug\Dikdortgen-alan-cevre.pdb
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen_alan_cevre.Form1.resources
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen_alan_cevre.Properties.Resources.resources
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.exe
+C:\Users\User\source\repos\Dikdortgen-alan-cevre\Dikdortgen-alan-cevre\obj\Debug\Dikdortgen-alan-cevre.pdb
